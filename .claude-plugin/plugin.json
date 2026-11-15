@@ -1,0 +1,23 @@
+{
+  "name": "ayrank",
+  "displayName": "AY Rank skills",
+  "version": "0.1.0",
+  "description": "Five free GEO and AI search skills: audit a site for AI search, check AI crawler access, write an answer-first page, check if ChatGPT names your brand, and ship an llms.txt. Runs on the free AY Rank tools API, no key.",
+  "author": {
+    "name": "AY Rank",
+    "url": "https://www.ayrank.com"
+  },
+  "homepage": "https://www.ayrank.com/tools",
+  "repository": "https://github.com/ay-automate/ayrank-skills",
+  "license": "MIT",
+  "keywords": [
+    "geo",
+    "aeo",
+    "ai-search",
+    "seo",
+    "robots-txt",
+    "llms-txt",
+    "chatgpt",
+    "ai-crawlers"
+  ]
+}

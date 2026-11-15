@@ -1,0 +1,28 @@
+{
+  "name": "ayrank-skills",
+  "description": "Free GEO and AI search skills for Claude Code, powered by the AY Rank free tools API.",
+  "owner": {
+    "name": "AY Rank",
+    "url": "https://www.ayrank.com"
+  },
+  "plugins": [
+    {
+      "name": "ayrank",
+      "source": "./",
+      "description": "Five free GEO and AI search skills: audit a site for AI search, check AI crawler access, write an answer-first page, check if ChatGPT names your brand, and ship an llms.txt.",
+      "version": "0.1.0",
+      "category": "seo",
+      "keywords": [
+        "geo",
+        "aeo",
+        "ai-search",
+        "seo",
+        "robots-txt",
+        "llms-txt",
+        "chatgpt",
+        "ai-crawlers"
+      ],
+      "homepage": "https://www.ayrank.com/tools"
+    }
+  ]
+}
